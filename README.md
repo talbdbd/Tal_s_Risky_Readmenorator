@@ -23,6 +23,7 @@ Node.js is required to run this project.
 ## Usage
 
 Use Node.js to run the generator.
+Video Walkthrough: https://www.youtube.com/watch?v=1NoI9puX4C8
 
 ## Credits
 
